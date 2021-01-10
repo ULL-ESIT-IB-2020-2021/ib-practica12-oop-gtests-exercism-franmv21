@@ -927,7 +927,7 @@ FodyWeavers.xsd
 ##### Gradle
 .gradle
 ##**/build/
-##!src/**/build/
+!src/**/build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
