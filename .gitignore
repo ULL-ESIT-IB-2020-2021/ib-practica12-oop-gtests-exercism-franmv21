@@ -91,7 +91,7 @@ out/
 # release/
 
 # Gradle files
-##.gradle/
+.gradle/
 ##build/
 
 # Local configuration file (sdk path, etc)
@@ -925,7 +925,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 ##### Gradle
-##.gradle
+.gradle
 ##**/build/
 ##!src/**/build/
 
